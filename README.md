@@ -35,18 +35,24 @@ git clone https://github.com/reituman602/us-llc-compliance-tracker.git
 cd us-llc-compliance-tracker
 python tracker.py
 
-🚨 Critical Federal Compliance Rules (Non-Residents)
-IRS Form 5472 & 1120: Foreign-owned single-member LLCs (disregarded entities) must report any capital injection, withdrawal, or transaction annually by April 15. Failure to file carries a statutory minimum penalty of $25,000.
-EIN Acquisition: Non-residents without an SSN must apply via international phone (+1 267-941-1099) or fax Form SS-4 (+1 304-707-9471).
-🔗 Master Reference & Guides
+---
+
+## 🚨 Critical Federal Compliance Rules (Non-Residents)
+
+1. **IRS Form 5472 & 1120**: Foreign-owned single-member LLCs (disregarded entities) must report any capital injection, withdrawal, or transaction annually by **April 15**. Failure to file carries a statutory minimum penalty of **$25,000**.
+2. **EIN Acquisition**: Non-residents without an SSN must apply via international phone (`+1 267-941-1099`) or fax Form SS-4 (`+1 304-707-9471`).
+
+---
+
+## 🔗 Master Reference & Guides
 
 For official state filing walkthroughs, Articles of Organization instructions, and compliance templates:
 
-📖 US LLC Formation & Compliance Guide Hub
- (Comprehensive Multi-State Directory)
-💳 Cross-Border Payment & Stripe Setup Guide
-🌐 KuajingBase Official Portal
-⚖️ License
+* 📖 **[US LLC Formation & Compliance Guide Hub](https://kuajingbase.com/en/legal/us-llc)** (Comprehensive Multi-State Directory)
+* 💳 **[Cross-Border Payment & Stripe Setup Guide](https://kuajingbase.com/en/payment/stripe)**
+* 🌐 **[KuajingBase Official Portal](https://kuajingbase.com/en)**
 
-MIT License. Maintained by KuajingBase
-.
+---
+
+## ⚖️ License
+MIT License. Maintained by [KuajingBase](https://kuajingbase.com).
