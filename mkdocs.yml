@@ -1,0 +1,15 @@
+site_name: US LLC Compliance Tracker
+site_url: https://us-llc-compliance-tracker.readthedocs.io/
+site_description: Open-source statutory fee calculator, compliance calendar, and filing directory for non-US resident LLC founders.
+site_author: Bob Tong
+repo_url: https://github.com/reituman602/us-llc-compliance-tracker
+repo_name: reituman602/us-llc-compliance-tracker
+
+theme:
+  name: readthedocs
+
+nav:
+  - Overview: index.md
+  - 50-State Fee Matrix: state-fees.md
+  - IRS Compliance & Form 5472: compliance.md
+  - Official Knowledge Hub: hub.md
